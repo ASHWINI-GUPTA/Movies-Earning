@@ -1,8 +1,8 @@
 # Progressive Web App in Angular
 
-> App is created for Udemy Google Scholarship Program.
+> App is created for Udacity Google Scholarship Program.
 
-This App show Movies earning.
+This is very basic app to show Movies earning.
 
 ## Screenshots
 
