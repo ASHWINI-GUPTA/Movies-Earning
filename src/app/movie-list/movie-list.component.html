@@ -1,0 +1,7 @@
+<h2>Earnings of Movies relased this Year!</h2>
+
+<mat-card class="movie-card" *ngFor="let b of movies">
+  <img mat-card-image src="{{b.img}}" alt="{{b.name}}">
+  <mat-card-title>{{b.name}}</mat-card-title>
+  <mat-card-subtitle>Earn : {{b.earn}}</mat-card-subtitle>
+</mat-card>
