@@ -8,6 +8,6 @@ export class MovieService {
   constructor(private http: HttpClient) {}
 
   getAll(): Observable<any> {
-    return this.http.get('http://demo3977631.mockable.io/list');
+    return this.http.get('https://demo3515692.mockable.io/movie-list ');
   }
 }
