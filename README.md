@@ -2,9 +2,19 @@
 
 > App is created for Udemy Google Scholarship Program.
 
-This App shows Movies earning from API's.
+This App show Movies earning.
 
-## Angular CLI
+## Screenshots
+
+![Screen](https://github.com/ASHWINI-GUPTA/Movies-Earning/blob/master/screen/iPhone.png)
+
+
+![Screen](https://github.com/ASHWINI-GUPTA/Movies-Earning/blob/master/screen/Tab.png)
+
+
+![Screen](https://github.com/ASHWINI-GUPTA/Movies-Earning/blob/master/screen/PWA.png)
+
+### Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
