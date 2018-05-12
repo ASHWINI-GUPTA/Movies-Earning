@@ -2,44 +2,33 @@
   "index": "/index.html",
   "assetGroups": [
     {
-      "name": "app",
+      "name": "Movie",
       "installMode": "prefetch",
+      "updateMode": "prefetch",
       "resources": {
         "files": [
-          "/favicon.ico",
+          "/assets/manifest.json",
           "/index.html"
         ],
         "versionedFiles": [
           "/*.bundle.css",
           "/*.bundle.js",
           "/*.chunk.js"
+        ],
+        "urls": [
+          "https://fonts.googleapis.com/css?family=Open+Sans:400,700|Playfair+Display+SC",
+          "https://fonts.gstatic.com/**"
         ]
       }
     },
     {
-      "name": "assets",
+      "name": "favicon",
       "installMode": "lazy",
       "updateMode": "prefetch",
       "resources": {
         "files": [
-          "/assets/**"
-        ],
-        "urls": [
-          "https://fonts.googleapis.com/**"
+          "/assets/favicon/**"
         ]
-      }
-    }
-  ],
-  "dataGroups": [
-    {
-      "name": "local-api",
-      "urls": [
-        "http://localhost:8080/**"
-      ],
-      "cacheConfig": {
-        "maxSize": 100,
-        "maxAge": "1d",
-        "strategy": "freshness"
       }
     }
   ]
