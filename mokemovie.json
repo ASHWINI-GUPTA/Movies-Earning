@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img" : "./assets/img/avengers.jpg",
+        "name" : "Avengers: Infinity War (2018)",
+        "earn" : "$1B+ (Still Running)"
+    },
+    {
+        "id": 2,
+        "img" : "./assets/img/black.jpg",
+        "name" : "Black Panther (2018)",
+        "earn" : "$694.25M"
+    },    
+    {
+        "id": 3,
+        "img" : "./assets/img/freed.jpg",
+        "name" : "Fifty Shades Freed (2018)",
+        "earn" : "$100.41M"
+    },    
+    {
+        "id": 4,
+        "img" : "./assets/img/red.jpg",
+        "name" : "Red Sparrow (2018)",
+        "earn" : "$57.11M"
+    },
+    {
+        "id": 5,
+        "img" : "./assets/img/tomb.jpg",
+        "name" : "Tomb Raider (2018)",
+        "earn" : "$46.77M"
+    }
+]
